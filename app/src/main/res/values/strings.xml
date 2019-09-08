@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DriverDetails</string>
+    <string name="Name">Name</string>
+    <string name="DriverName">Henry Stewart</string>
+    <string name="DescriptionTitle">Description</string>
+    <string name="description">He has worked for the past 5 years.
+        He aims to be a writer and make his family proud.</string>
+    <string name="ratings">Rating</string>
+    <string name="alternate">Driver Image</string>
+
+</resources>
